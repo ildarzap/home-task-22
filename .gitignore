@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Logs
+logs/
+*.log
+debug.log
+
+# Editor settings
+.vscode/
+.idea/
+.DS_Store
